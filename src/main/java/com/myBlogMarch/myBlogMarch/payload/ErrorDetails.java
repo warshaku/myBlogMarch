@@ -13,7 +13,6 @@ public class ErrorDetails {
    private Date date;
 
    private String url;
-
 //    public ErrorDetails(String message, Date date, String url) {
 //        this.message = message;
 //        this.date = date;
